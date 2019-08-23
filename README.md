@@ -1,4 +1,4 @@
-# Learning Resouces
+# Learning Resources
 
 ## BASICS
 * Web Fundamentals
